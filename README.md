@@ -2,8 +2,6 @@
 
 This is a collection of projects I find interesting.
 
-[toc]
-
 ## Editor or IDE
 
 - [Srcery](https://github.com/srcery-colors) — My favorite color theme, which supports Vim, VS Code, Emacs, terminal and others
