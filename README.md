@@ -47,6 +47,7 @@ This is a collection of projects I find interesting.
 ## Misc
 
 - [cheat.sh](https://github.com/chubin/cheat.sh) — Save some googling time
+- [gitmoji](https://github.com/carloscuesta/gitmoji) — Of course you need to know how to use emoji in your commit message
 
 ## Reading
 
